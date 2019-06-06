@@ -32,4 +32,4 @@ Class = keeshond  Confidence = 4.281615257263184
 
 ### Inference Time Benchmarks
 
-The average inference time observer on my machine (GTX 1050) is ~ 3ms
+The average inference time observed on my machine (GTX 1050) is ~ 3ms

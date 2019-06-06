@@ -17,18 +17,18 @@ As of now, the code only contains the Classification module.
 
 ### On single or multiple images
 
-'''
+```
 python detect.py --image imgs/Malamute.jpg 
-'''
+```
 
 Output would be expected to be something similar like 
-'''
+```
 Class = malamute  Confidence = 62.50366973876953
 Class = Norwegian elkhound  Confidence = 17.33596420288086
 Class = Eskimo dog  Confidence = 9.506247520446777
 Class = Siberian husky  Confidence = 5.180300235748291
 Class = keeshond  Confidence = 4.281615257263184
-'''
+```
 
 ### Inference Time Benchmarks
 

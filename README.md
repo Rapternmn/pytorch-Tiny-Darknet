@@ -1,7 +1,7 @@
 # pytorch-Tiny-Darknet
 PyTorch implementation of the Tiny Darknet Image Classification algorithm 
 
-Original Implementation of Tiny Darknet: https://pjreddie.com/darknet/tiny-darknet/
+<!-- Original Implementation of Tiny Darknet: https://pjreddie.com/darknet/tiny-darknet/ -->
 
 This repository contains code for a classifier based on [Tiny Darknet](https://pjreddie.com/darknet/tiny-darknet/), implementedin PyTorch. The code is based on the official code of [YOLO v3](https://github.com/pjreddie/darknet), as well as a PyTorch 
 port of the original code, by [ayooshkathuria](https://github.com/ayooshkathuria/pytorch-yolo-v3). The aim of this project is to have pytorch compatible Tiny Darknet classifier. 
